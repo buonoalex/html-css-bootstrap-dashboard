@@ -7,5 +7,15 @@
 /* CLASSI */
 
 .logo-header{
-    width: 5%;
+    width: 4%;
 }
+
+.container{
+    width: 80%;
+}
+
+.text-small{
+    font-size: small;
+}
+
+
