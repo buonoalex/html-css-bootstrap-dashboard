@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CLASSI */
+
+.logo-header{
+    width: 5%;
+}
+
+.inline-block{
+    display: inline-block;
+}
